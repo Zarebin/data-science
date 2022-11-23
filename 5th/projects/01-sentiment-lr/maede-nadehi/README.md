@@ -1,1 +1,1 @@
-# this is my first Logistic regression classifier to sentiment analysis
+# sentiment analysis using Logistic regression
